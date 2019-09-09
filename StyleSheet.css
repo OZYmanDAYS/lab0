@@ -1,13 +1,26 @@
 h1 {
     text-align: center;
-    font-size: 12pt;
+    font-size: 36pt;
     color: #000099;
     margin-bottom: 5px;
     text-decoration: underline;
 }
 
+h2 {
+    font-size: 24pt;
+    color: #000099
+}
+
+h3 {
+    font-size: 18pt;
+    color: #71e722
+}
+
 table {
     width: 100%;
+}
+img {
+    border-radius: 8px;
 }
 
 th {
