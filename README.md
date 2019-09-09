@@ -1,2 +1,3 @@
-# lab0
+# First Lab for CS100
 Lab 0 for CS100, Fall 2019
+My website consists of a landing page and three other pages that include a short biography, a table of my interests, and a some fo my favorite movies and tv shows. The list group on each page links the user to each of the pages from anywhere on the site, my interests are listed in a table, and there are images attached to each of the tv shows and movies that list in that page. The stylesheet changes the styling for; h1, h2, h3, table, img, th, td, the id "hello", and the class "body". The list groups that link to each page are styled using Bootstrap, and the movies and tv shows were separated into columns using Bootstrap's grid layout.
